@@ -21,6 +21,6 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 # Constraints
-- 2 <= nums.length <= 104
-- -109 <= nums[i] <= 109
-- -109 <= target <= 109
+- 2 <= nums.length <= 10^4
+- -109 <= nums[i] <= 10^9
+- -109 <= target <= 10^9
